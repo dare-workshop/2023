@@ -35,7 +35,7 @@ We encourage submissions to be grounded in evidence and prior published work, wh
 :::
 
 :::{.white .center}
-[Submit](){.button}
+[Submit](https://easychair.org/my/conference?conf=dare23){.button}
 :::
 
 :::{.yellow}
