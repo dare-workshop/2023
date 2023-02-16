@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "DARE 2023"
+  search: False
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#schedule
+        text: Schedule
+      - href: index.qmd#venue
+        text: Venue
+      - href: index.qmd#speakers
+        text: Speakers
+
+format:
+  html:
+    theme: [cosmo,custom.scss]
+    fontsize: "1.5em"
+    page-layout: full
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+
+

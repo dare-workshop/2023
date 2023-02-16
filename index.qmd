@@ -1,0 +1,154 @@
+---
+title: The D.A.R.E. Workshop
+subtitle: |
+  as a part of the AAAI ICWSM 2023 conference at Limassol, Cyprus
+description: |
+  Disrupt, Ally, Resist, Embrace (DARE):<br> Action Items for Computational Social Scientists in a Changing World
+  
+section-divs: false
+toc: false
+title-block-banner: "#FFD54F"
+title-block-banner-color: "black"
+
+---
+
+:::{.white .center .big}
+A summit on the emerging dilemmas around the principles and practice of computational social science research in a changing technological landscape.
+:::
+
+:::{.yellow .normal}
+ In the past decade, many sophisticated AI-powered systems and tools have been developed and released to the scientific community and the public at large. Many of these developments have occurred against a backdrop of political and social polarization, and, public health and macroeconomic crises, which offer multiple lenses to contextualize (or distort) scientific reflexivity. To computational social scientists who study computer-mediated human behavior, these on- and offline changes have real implications on whom they study, and how they study them. How, then, should the ICWSM community members act in such a changing world? Which disruptions should they embrace and which ones should they resist? Whom do they ally with, and for what purpose? In this workshop, we invite experience-based perspectives on these issues, aimed at debating and drafting a future research agenda that we want to pursue together. The goal of this full-day workshop is to facilitate collaboration on position papers among its attendees, each of which must propose an actionable item for future computational science research.
+:::
+
+:::{.white .normal}
+We invite thought-provoking submissions as extended abstracts on topics including (but not limited to) issues related to process and principle in an AI-fueled era of computational social science research. More concretely:
+
+- **Issues of Process**: The increasing availability of proprietary AI tools has created challenges for the research process as well as the researchers themselves -- to adapt or be left behind. 
+
+First, we can consider their impact on the research process. While preregistrations and transparency checklists offer promising directions for clarifying contentious issues in the research process, the use of technology to collect, process, and even create data (such as is possible through the use of large language models or LLMs) may imply that they can do little to ameliorate the reproducibility crisis plaguing social science today. Is the peer review process robust to these onslaughts? What can be done to establish the credibility and validity of published research?
+
+Second, we can consider their impact on researchers. On the one hand, they may spur opportunities to study known problems differently; on the other, they may trigger the study of the new problems they herald (or bring to light). New technologies and tools may also spell unfavorable consequences for those who lack the computational resources to use them, who may even consider pivoting their research directions and methods. Who can use these tools, and what would this imply for those who can not or may not?
+
+- **Issues of Principle**: Recent events related to questionable technology takeovers and layoffs, exposes on techno-political alliances, and questionable labor practices at large technology companies create new dilemmas for researchers collecting, annotating, and analyzing online data. These problems now extend to the dilemma of using methods and models that are the offshoots of anti-consumer corporate practices. For instance, large language models, or LLMs, are owned by private companies, but they were built by ingesting the entirety of human-produced text available on the internet without attribution. What does it mean to make privately-owned LLMs  central to one’s research? Are LLMs (and other generative models) the same as code libraries? Or something else entirely? Do they create dilemmas for ``conscientious objectors'', who might refuse to use such tools on ethical grounds? What would this mean for their research prospects at journals and other publication venues?  
+
+We encourage submissions to be grounded in evidence and prior published work, while personal experiences and insights are welcome. We anticipate that there may be cases where the submitters wish to discuss or reveal confidential information; such submitters are welcome to reach out to the organizers for special consideration.
+:::
+
+:::{.white .center}
+[Submit](){.button}
+:::
+
+:::{.yellow}
+
+:::{.center}
+## Schedule
+:::
+
+:::{.mono}
+- Workshop Papers Submissions: March 27, 2023
+- Workshop Paper Acceptance Notification: April 10, 2023
+- Workshop Final Camera-Ready Paper Due: May 6, 2023
+- ICWSM-2023 Workshops Day: June 5, 2023
+:::
+
+::: {.columns}
+
+::: {.column width="33%" .center}
+Provocative keynote speakers
+![](img/keynote.png)
+[Provocative keynotes to set the tone]{.tiny}
+:::
+
+::: {.column width="33%" .center}
+Panels
+![](img/panel.png)
+[Invited discussants speaking on different workshop themes]{.tiny}
+
+:::
+
+::: {.column width="33%" .center}
+Debates
+![](img/debates.png)
+[Debate-style breakouts]{.tiny}
+:::
+
+:::
+:::
+
+:::{.white .center}
+## Speakers
+:::
+
+:::{.yellow}
+::: {.columns}
+
+::: {.column width="25%" .center}
+![](https://via.placeholder.com/250)
+
+[Name]
+:::
+
+::: {.column width="25%" .center}
+![](https://via.placeholder.com/250)
+
+[Name]
+:::
+
+::: {.column width="25%" .center}
+![](https://via.placeholder.com/250)
+
+[Name]
+:::
+
+::: {.column width="25%" .center}
+![](https://via.placeholder.com/250)
+
+[Name]
+:::
+
+:::
+:::
+
+:::{.white}
+## Venue
+:::
+
+:::{.yellow}
+## Organizers
+::: {.columns}
+
+::: {.column width="25%" .center}
+![](img/organizers/kokil.png)
+
+Kokil Jaidka
+
+[National University of Singapore]{.normal}
+:::
+
+::: {.column width="25%" .center}
+![](img/organizers/eni.png)
+
+Eni Mustafarj
+
+[Wellesley College]{.normal}
+:::
+
+::: {.column width="25%" .center}
+![](img/organizers/david.png)
+
+David Schoch
+
+[GESIS]{.normal}
+:::
+
+::: {.column width="25%" .center}
+![](img/organizers/kenny.png)
+
+Kenny Joseph
+
+[University of Buffalo]{.normal}
+:::
+
+:::
+
+:::
