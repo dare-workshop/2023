@@ -1,7 +1,7 @@
 ---
 title: The D.A.R.E. Workshop
 subtitle: |
-  as a part of the AAAI ICWSM 2023 conference at Limassol, Cyprus
+  as a part of the [AAAI ICWSM 2023 conference](https://www.icwsm.org/2023/) at Limassol, Cyprus
 description: |
   Disrupt, Ally, Resist, Embrace (DARE):<br> Action Items for Computational Social Scientists in a Changing World
   
@@ -13,12 +13,15 @@ title-block-banner-color: "black"
 ---
 
 :::{.white .center .big}
-A summit on the emerging dilemmas around the principles and practice of computational social science research in a changing technological landscape.
+A gathering to discuss the emerging dilemmas around the principles and practice of computational social science research in a changing technological landscape.
 :::
 
+## Motivation
 :::{.yellow .normal}
  In the past decade, many sophisticated AI-powered systems and tools have been developed and released to the scientific community and the public at large. Many of these developments have occurred against a backdrop of political and social polarization, and, public health and macroeconomic crises, which offer multiple lenses to contextualize (or distort) scientific reflexivity. To computational social scientists who study computer-mediated human behavior, these on- and offline changes have real implications on whom they study, and how they study them. How, then, should the ICWSM community members act in such a changing world? Which disruptions should they embrace and which ones should they resist? Whom do they ally with, and for what purpose? In this workshop, we invite experience-based perspectives on these issues, aimed at debating and drafting a future research agenda that we want to pursue together. The goal of this full-day workshop is to facilitate collaboration on position papers among its attendees, each of which must propose an actionable item for future computational science research.
 :::
+
+## Participate
 
 :::{.white .normal}
 We invite thought-provoking submissions as extended abstracts on topics including (but not limited to) issues related to process and principle in an AI-fueled era of computational social science research. More concretely:
@@ -36,12 +39,13 @@ We encourage submissions to be grounded in evidence and prior published work, wh
 
 :::{.white .center}
 [Submit](https://easychair.org/my/conference?conf=dare23){.button}
+Clicking here will take you to our EasyChair page.
 :::
 
 :::{.yellow}
 
 :::{.center}
-## Schedule
+### Important Dates
 :::
 
 :::{.mono}
@@ -51,6 +55,13 @@ We encourage submissions to be grounded in evidence and prior published work, wh
 - ICWSM-2023 Workshops Day: June 5, 2023
 :::
 
+## Program
+
+This is a full-day workshop. We want the participants to engage with the topics via keynote speakers and panels, as well as with one-another through colloaborative debate-style breakouts. 
+
+More details about the day will be posted in the next weeks.
+
+<!--
 ::: {.columns}
 
 ::: {.column width="33%" .center}
@@ -112,6 +123,7 @@ Debates
 :::{.white}
 ## Venue
 :::
+-->
 
 :::{.yellow}
 ## Organizers
@@ -128,7 +140,7 @@ Kokil Jaidka
 ::: {.column width="25%" .center}
 ![](img/organizers/eni.png)
 
-Eni Mustafarj
+Eni Mustafaraj
 
 [Wellesley College]{.normal}
 :::

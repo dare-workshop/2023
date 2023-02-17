@@ -8,12 +8,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: index.qmd#schedule
-        text: Schedule
-      - href: index.qmd#venue
-        text: Venue
-      - href: index.qmd#speakers
-        text: Speakers
+      - href: index.qmd#Participate
+        text: Participate
+      - href: index.qmd#Program
+        text: Program
+      - href: index.qmd#organizers
+        text: Organizers
 
 format:
   html:
