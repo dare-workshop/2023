@@ -39,10 +39,10 @@ We encourage submissions to be grounded in evidence and prior published work, wh
 
 :::{.white .center}
 [Submit](https://easychair.org/my/conference?conf=dare23){.button}
-Clicking here will take you to our EasyChair page.
+<br>Clicking here will take you to our EasyChair page.
 :::
 
-:::{.yellow}
+
 
 :::{.center}
 ### Important Dates
