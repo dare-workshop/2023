@@ -51,14 +51,14 @@ Position papers should be grounded in evidence, prior published work, and ideall
 ### Important Dates
 :::
 
-- Workshop Papers Submissions: March 27, 2023
-- Workshop Paper Acceptance Notification: April 10, 2023
+- Workshop Papers Submissions: ~~March 27, 2023~~ April 03, 2023 (2 page submission), April 17 (200 word statement)
+- Workshop Paper Acceptance Notification: ~~April 10, 2023~~ April 17, 2023
 - Workshop Final Camera-Ready Paper Due: May 6, 2023
 - ICWSM-2023 Workshops Day: June 5, 2023
 
 ## Program
 
-This is a full-day workshop. Our goal is to provide a venue in which participants will engage with the listed issues through various formats: keynote speakers and panels, colloaborative debate-style breakouts, and lightning sessions. 
+This is a full-day workshop. Our goal is to provide a venue in which participants will engage with the listed issues through various formats: keynote speakers and panels, collaborative debate-style breakouts, and lightning sessions. 
 
 Depending on whether participants (those who are invited or who will apply to participate) are able to present in person or remotely, we will create a program to take into account how to best serve both audiences. Therefore, more details on the program will be posted in the future weeks.
 <!--
