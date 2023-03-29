@@ -65,3 +65,7 @@
 h2{
   text-align: center;
 }
+
+.panel-tabset li.nav-item:hover{
+  background-color: #FFD54F;
+}
