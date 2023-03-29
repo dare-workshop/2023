@@ -154,6 +154,31 @@ Debates
 :::
 -->
 
+:::{.white .center}
+### Speakers
+
+::: {.columns}
+
+::: {.column width="33%" .center}
+![](https://pbs.twimg.com/profile_images/1568548282518978562/CrpNZECX_400x400.jpg)
+
+[Saiph Savage](http://www.saiph.org/)
+:::
+
+::: {.column width="66%"}
+
+::: {.panel-tabset}
+### Bio
+
+### Topic
+:::
+
+:::
+
+:::
+
+:::
+
 :::{.yellow}
 ## Organizers
 ::: {.columns}
