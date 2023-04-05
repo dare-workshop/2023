@@ -153,8 +153,6 @@ Debates
 
 ## Speakers
 
-::: {.columns}
-
 ::: {.column width="33%" .center}
 ![](https://cssh.northeastern.edu/wp-content/uploads/2020/01/PoliSci-Lazer2-web-600x800-c-default.jpg)
 
@@ -186,7 +184,6 @@ Saiph Savage is an Assistant Professor at Northeastern University in the Khoury 
 
 ### Topic
 Dr. Savage is helping to co-lead the International Panel for the Information Environment (IPIE),  which will establish a global scientific effort to independently analyze systems of information manipulation and bias, and evaluate the best policy solutions for addressing threats to that environment. One of the main goals of the IPIE is to engage researchers from the Global South. In her talk, Dr. Savage will discuss strategies for building alliances and we will brainstorm together about this topic.
-
 :::
 
 :::
@@ -221,7 +218,9 @@ Dr. Rebekah Tromble is Associate Professor in the School of Media and Public Aff
 
 ### Topic
 Dr. Tromble will be talking on the panel on Data sharing and Industry-Academic Collaborations on the basis of her experience leading a large research project, funded by Twitter. This project brings together a team of international researchers from both the social and computer sciences to investigate the “health” of political conversations on Twitter. The project is developing metrics for assessing the extent of phenomena such as echo chambers, incivility, and intolerance across political topics, different geographical regions, and languages. 
+:::
 
+:::
 
 :::{.yellow}
 ## Organizers
