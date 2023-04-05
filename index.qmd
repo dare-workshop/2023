@@ -205,7 +205,22 @@ João Sedoc is an Assistant Professor of Information Systems in the Department o
 ### Topic
 Dr. Sedoc has extensive experience in building empathetic chatbots. He will be sharing his perspective on the future of generative AI technologies in the panel on Large Language Models. 
 :::
+
 :::
+::: {.column width="33%" .center}
+![](https://smpa.gwu.edu/sites/g/files/zaxdzs4161/files/image/Rebekah%20Tromble.jpg)
+
+[Rebekah Tromble](https://smpa.gwu.edu/rebekah-tromble)
+:::
+
+::: {.column width="66%" .left}
+
+::: {.panel-tabset}
+### Bio
+Dr. Rebekah Tromble is Associate Professor in the School of Media and Public Affairs and Director of the Institute for Data, Democracy, and Politics (IDDP) at George Washington University. She recently joined George Washington University after spending eight years in the Institute of Political Science at Leiden University in the Netherlands. 
+
+### Topic
+Dr. Tromble will be talking on the panel on Data sharing and Industry-Academic Collaborations on the basis of her experience leading a large research project, funded by Twitter. This project brings together a team of international researchers from both the social and computer sciences to investigate the “health” of political conversations on Twitter. The project is developing metrics for assessing the extent of phenomena such as echo chambers, incivility, and intolerance across political topics, different geographical regions, and languages. 
 
 
 :::{.yellow}
