@@ -196,9 +196,6 @@ Dr. Savage is helping to co-lead the International Panel for the Information Env
 [Joao Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc)
 :::
 
-::: {.column width="33%" .center}
-:::
-
 ::: {.column width="66%" .left}
 
 ::: {.panel-tabset}
@@ -210,7 +207,6 @@ Dr. Sedoc has extensive experience in building empathetic chatbots. He will be s
 :::
 :::
 
-:::
 
 :::{.yellow}
 ## Organizers
