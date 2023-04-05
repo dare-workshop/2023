@@ -155,10 +155,27 @@ Debates
 -->
 
 :::{.white .center}
-### Speakers
+## Speakers
 
 ::: {.columns}
 
+::: {.column width="33%" .center}
+![](https://cssh.northeastern.edu/wp-content/uploads/2020/01/PoliSci-Lazer2-web-600x800-c-default.jpg)
+
+[David Lazer](https://cssh.northeastern.edu/faculty/david-lazer/)
+:::
+
+::: {.column width="66%" .left}
+
+::: {.panel-tabset}
+### Bio
+David Lazer is a University Distinguished Professor of Political Science and Computer Sciences, Northeastern University, and Co-Director, NULab for Texts, Maps, and Networks. He is among the leading scholars in the world on misinformation and computational social science and has served in multiple leadership and editorial positions, including as a board member for the International Network of Social Network Analysts (INSNA), reviewing editor for Science, associate editor of Social Networks and Network Science, numerous other editorial boards and program committees. 
+
+### Topic
+Dr. Lazer is involved in setting up the Internet Observatory, and will be discussing his experiences in the panel on Data sharing and Industry-Academic Collaborations.
+:::
+
+:::
 ::: {.column width="33%" .center}
 ![](https://pbs.twimg.com/profile_images/1568548282518978562/CrpNZECX_400x400.jpg)
 
@@ -174,9 +191,21 @@ Saiph Savage is an Assistant Professor at Northeastern University in the Khoury 
 ### Topic
 Dr. Savage is helping to co-lead the International Panel for the Information Environment (IPIE),  which will establish a global scientific effort to independently analyze systems of information manipulation and bias, and evaluate the best policy solutions for addressing threats to that environment. One of the main goals of the IPIE is to engage researchers from the Global South. In her talk, Dr. Savage will discuss strategies for building alliances and we will brainstorm together about this topic.
 :::
+::: {.column width="33%" .center}
+![](https://pbs.twimg.com/profile_images/1568548282518978562/CrpNZECX_400x400.jpg)
 
+[Joao Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc)
 :::
 
+::: {.column width="66%" .left}
+
+::: {.panel-tabset}
+### Bio
+João Sedoc is an Assistant Professor of Information Systems in the Department of Technology, Operations and Statistics at New York University Stern School of Business. He is also affiliated with the Center for Datascience ML^2 Lab at NYU. His research areas are at the intersection of machine learning and natural language processing. His interests include conversational agents, hierarchical models, deep learning, and time series analysis. Before joining NYU Stern, he worked as an Assistant Research Professor in the Department of Computer Science at Johns Hopkins University. He received his PhD in Computer and Information Science from the University of Pennsylvania.
+
+### Topic
+Dr. Sedoc has extensive experience in building empathetic chatbots. He will be sharing his perspective on the future of generative AI technologies in the panel on Large Language Models. 
+:::
 :::
 
 :::
