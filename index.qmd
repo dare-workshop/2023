@@ -151,8 +151,7 @@ Debates
 :::
 -->
 
-:::{.white .center}
-### Speakers
+## Program
 
 ::: {.columns}
 
