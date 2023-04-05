@@ -163,10 +163,10 @@ Debates
 
 ::: {.panel-tabset}
 ### Bio
-David Lazer is a University Distinguished Professor of Political Science and Computer Sciences, Northeastern University, and Co-Director, NULab for Texts, Maps, and Networks. He is among the leading scholars in the world on misinformation and computational social science and has served in multiple leadership and editorial positions, including as a board member for the International Network of Social Network Analysts (INSNA), reviewing editor for Science, associate editor of Social Networks and Network Science, numerous other editorial boards and program committees. 
+David Lazer is a University Distinguished Professor of Political Science and Computer Sciences, Northeastern University, and Co-Director, NULab for Texts, Maps, and Networks. He is among the leading scholars in the world on misinformation and computational social science and has served in multiple leadership and editorial positions, including as a board member for the International Network of Social Network Analysts (INSNA), reviewing editor for Science, associate editor of Social Networks and Network Science, and numerous other editorial boards and program committees. 
 
 ### Topic
-Dr. Lazer is involved in setting up the Internet Observatory, and will be discussing his experiences in the panel on Data sharing and Industry-Academic Collaborations.
+Dr. Lazer is currently the PI in a five-year, $15.7 million research grant funded by the NSF, that aims to establish a [National Internet Observatory](https://nationalinternetobservatory.org/), to observe online human behavior across many digital platforms. The observatory will provide access to privacy-preserving human data to third-party researchers in order to study questions of broad interest. Dr. Lazer will discuss this project in the panel on Data sharing and Industry-Academic Collaborations.
 :::
 
 :::
@@ -217,7 +217,7 @@ Dr. Sedoc has extensive experience in building empathetic chatbots. He will be s
 Dr. Rebekah Tromble is Associate Professor in the School of Media and Public Affairs and Director of the Institute for Data, Democracy, and Politics (IDDP) at George Washington University. She recently joined George Washington University after spending eight years in the Institute of Political Science at Leiden University in the Netherlands. 
 
 ### Topic
-Dr. Tromble will be talking on the panel on Data sharing and Industry-Academic Collaborations on the basis of her experience leading a large research project, funded by Twitter. This project brings together a team of international researchers from both the social and computer sciences to investigate the “health” of political conversations on Twitter. The project is developing metrics for assessing the extent of phenomena such as echo chambers, incivility, and intolerance across political topics, different geographical regions, and languages. 
+Dr. Tromble will be talking on the panel on Data sharing and Industry-Academic Collaborations on the basis of her experience leading a large research project, funded by Twitter. This project brings together a team of international researchers from both the social and computer sciences to investigate the ``health'' of political conversations on Twitter. The project is developing metrics for assessing the extent of phenomena such as echo chambers, incivility, and intolerance across political topics, different geographical regions, and languages. 
 :::
 
 :::
