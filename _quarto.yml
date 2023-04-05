@@ -12,6 +12,8 @@ website:
         text: Participate
       - href: index.qmd#Program
         text: Program
+      - href: index.qmd#speakers
+        text: Speakers
       - href: index.qmd#organizers
         text: Organizers
 
