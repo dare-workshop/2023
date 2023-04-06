@@ -87,74 +87,11 @@ Position papers should be grounded in evidence, prior published work, and ideall
 This is a full-day workshop. Our goal is to provide a venue in which participants will engage with the listed issues through various formats: keynote speakers and panels, collaborative debate-style breakouts, and lightning sessions. 
 
 Depending on whether participants (those who are invited or who will apply to participate) are able to present in person or remotely, we will create a program to take into account how to best serve both audiences. Therefore, more details on the program will be posted in the future weeks.
-<!--
-::: {.columns}
-
-::: {.column width="33%" .center}
-Provocative keynote speakers
-![](img/keynote.png)
-[Provocative keynotes to set the tone]{.tiny}
-:::
-
-::: {.column width="33%" .center}
-Panels
-![](img/panel.png)
-[Invited discussants speaking on different workshop themes]{.tiny}
-
-:::
-
-::: {.column width="33%" .center}
-Debates
-![](img/debates.png)
-[Debate-style breakouts]{.tiny}
-:::
-
-:::
-:::
-
-:::{.white .center}
-## Speakers
-:::
-
-:::{.yellow}
-::: {.columns}
-
-::: {.column width="25%" .center}
-![](https://via.placeholder.com/250)
-
-[Name]
-:::
-
-::: {.column width="25%" .center}
-![](https://via.placeholder.com/250)
-
-[Name]
-:::
-
-::: {.column width="25%" .center}
-![](https://via.placeholder.com/250)
-
-[Name]
-:::
-
-::: {.column width="25%" .center}
-![](https://via.placeholder.com/250)
-
-[Name]
-:::
-
-:::
-:::
-
-:::{.white}
-## Venue
-:::
--->
 
 ## Speakers
 
 ::: {.column width="33%" .center}
-![](https://cssh.northeastern.edu/wp-content/uploads/2020/01/PoliSci-Lazer2-web-600x800-c-default.jpg)
+![](https://cssh.northeastern.edu/wp-content/uploads/2020/01/PoliSci-Lazer2-web-600x800-c-default.jpg){width="100%" height="auto"}
 
 [David Lazer](https://cssh.northeastern.edu/faculty/david-lazer/)
 :::
@@ -171,7 +108,7 @@ Dr. Lazer is involved in setting up the Internet Observatory, and will be discus
 
 :::
 ::: {.column width="33%" .center}
-![](https://pbs.twimg.com/profile_images/1568548282518978562/CrpNZECX_400x400.jpg)
+![](https://pbs.twimg.com/profile_images/1568548282518978562/CrpNZECX_400x400.jpg){width="100%" height="auto"}
 
 [Saiph Savage](http://www.saiph.org/)
 :::
@@ -188,7 +125,7 @@ Dr. Savage is helping to co-lead the International Panel for the Information Env
 
 :::
 ::: {.column width="33%" .center}
-![](https://www.stern.nyu.edu/faculty/static/photos/jsedoc.png)
+![](https://www.stern.nyu.edu/faculty/static/photos/jsedoc.png){width="100%" height="auto"}
 
 [Joao Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc)
 :::
@@ -205,7 +142,7 @@ Dr. Sedoc has extensive experience in building empathetic chatbots. He will be s
 
 :::
 ::: {.column width="33%" .center}
-![](https://smpa.gwu.edu/sites/g/files/zaxdzs4161/files/image/Rebekah%20Tromble.jpg)
+![](https://smpa.gwu.edu/sites/g/files/zaxdzs4161/files/image/Rebekah%20Tromble.jpg){width="100%" height="auto"}
 
 [Rebekah Tromble](https://smpa.gwu.edu/rebekah-tromble)
 :::
