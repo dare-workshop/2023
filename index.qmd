@@ -156,7 +156,25 @@ Dr. Rebekah Tromble is Associate Professor in the School of Media and Public Aff
 ### Topic
 Dr. Tromble will be talking on the panel on Data sharing and Industry-Academic Collaborations on the basis of her experience leading a large research project, funded by Twitter. This project brings together a team of international researchers from both the social and computer sciences to investigate the ``health'' of political conversations on Twitter. The project is developing metrics for assessing the extent of phenomena such as echo chambers, incivility, and intolerance across political topics, different geographical regions, and languages. 
 :::
+:::
 
+
+::: {.column width="33%" .center}
+![](https://www.lauraknelson.com/authors/admin/avatar_hu1156240a0d3f8659fb474142aadc8e03_514440_270x270_fill_q75_lanczos_center.jpg){width="100%" height="auto"}
+
+[Laura Nelson](https://www.lauraknelson.com/)
+:::
+
+::: {.column width="66%" .left}
+
+::: {.panel-tabset}
+### Bio
+Dr. Laura Nelson is an assistant professor of sociology at the University of British Columbia. In her work, she uses computational methods to study social movements, culture, gender, institutions, and the history of feminism. She is particularly interested in developing transparent and reproducible text analysis methods for sociology using open-source tools. Laura's work has been published in a range of outlets, including the American Journal of Sociology, Poetics, and Sociological Methods & Research, among others.
+
+### Topic
+Dr. Laura Nelson will be talking on the panel on large language models.
+
+:::
 :::
 
 :::{.yellow}
