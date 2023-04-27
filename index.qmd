@@ -177,6 +177,25 @@ Dr. Laura Nelson will be talking on the panel on large language models.
 :::
 :::
 
+
+::: {.column width="33%" .center}
+![](https://images.squarespace-cdn.com/content/v1/56bf7bbc5559867615ddc81a/e2bc83f6-77be-4595-b736-8e12914193cb/Argyle+2_4.jpg?format=500w){width="100%" height="auto"}
+
+[ Lisa P. Argyle](http://www.lpargyle.com/)
+:::
+
+::: {.column width="66%" .left}
+
+::: {.panel-tabset}
+### Bio
+Dr. Lisa P. Argyle is an assistant professor of Political Science at Brigham Young University, and a faculty scholar with the Center for the Study of Elections and Democracy. She works on interdisciplinary research teams to apply new computational tools and methods to substantive questions in American politics, particularly around political participation and polarization.  She also studies how and why people talk about politics in their daily lives, both online and off-line.  
+
+### Topic
+Dr. Lisa P. Argyle will be talking on the panel on large language models.
+
+:::
+:::
+
 :::{.yellow}
 ## Organizers
 ::: {.columns}
