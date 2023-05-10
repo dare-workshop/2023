@@ -8,9 +8,9 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: index.qmd#Participate
+      - href: index.qmd#participate
         text: Participate
-      - href: index.qmd#Program
+      - href: index.qmd#program
         text: Program
       - href: index.qmd#speakers
         text: Speakers

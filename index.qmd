@@ -79,14 +79,30 @@ Position papers should be grounded in evidence, prior published work, and ideall
 
 - Workshop Papers Submissions: ~~March 27, 2023~~ April 03, 2023 (2 page submission), April 17 (200 word statement)
 - Workshop Paper Acceptance Notification: ~~April 10, 2023~~ April 17, 2023
-- Workshop Final Camera-Ready Paper Due: May 6, 2023
+- Workshop Final Camera-Ready Paper Due: May 22, 2023
 - ICWSM-2023 Workshops Day: June 5, 2023
 
 ## Program
 
 This is a full-day workshop. Our goal is to provide a venue in which participants will engage with the listed issues through various formats: keynote speakers and panels, collaborative debate-style breakouts, and lightning sessions. 
 
-Depending on whether participants (those who are invited or who will apply to participate) are able to present in person or remotely, we will create a program to take into account how to best serve both audiences. Therefore, more details on the program will be posted in the future weeks.
+Depending on whether participants (those who are invited or who will apply to participate) are able to present in person or remotely, we will create a program to take into account how to best serve both audiences. 
+
+The tentative schedule can be found below.
+
+```{r program}
+#| echo: false
+#| message: false
+#| warning: false
+library(tidyverse)
+tibble(
+    Time = c("9:00 - 10:00am","10:15 - 11:30am","12 - 1pm","1:00 - 2:30pm","2:30 - 3:45pm","4:15 - 5:30pm", "5:30 - 5:45pm"),
+    Description = c("TBA","Paper Session (5 x 10 minutes) + Discussions","Presentation + Discussion","Lunch Break","Panel on Data Sharing", "Panel on Large Language Models","Closing"),
+    Speaker = c("","","Saiph Savage","","David Lazer and Rebekah Tromble", "Laura Nelson, Joao Sedoc, Lisa P. Argyle","")
+) |> knitr::kable()
+
+```
+
 
 ## Speakers
 
