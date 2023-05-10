@@ -94,6 +94,7 @@ The tentative schedule can be found below.
 #| echo: false
 #| message: false
 #| warning: false
+#| eval: false
 library(tidyverse)
 tibble(
     Time = c("9:00 - 10:00am","10:15 - 11:30am","12 - 1pm","1:00 - 2:30pm","2:30 - 3:45pm","4:15 - 5:30pm", "5:30 - 5:45pm"),
@@ -103,6 +104,57 @@ tibble(
 
 ```
 
+<table class="table table-sm table-striped">
+<colgroup>
+<col style="width: 15%">
+<col style="width: 44%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Time</th>
+<th style="text-align: left;">Description</th>
+<th style="text-align: left;">Speaker</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">9:00 - 10:00am</td>
+<td style="text-align: left;">TBA</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">10:15 - 11:30am</td>
+<td style="text-align: left;">Paper Session (5 x 10 minutes) + Discussions</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">12 - 1pm</td>
+<td style="text-align: left;">Presentation + Discussion</td>
+<td style="text-align: left;">Saiph Savage</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1:00 - 2:30pm</td>
+<td style="text-align: left;">Lunch Break</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2:30 - 3:45pm</td>
+<td style="text-align: left;">Panel on Data Sharing</td>
+<td style="text-align: left;">David Lazer and Rebekah Tromble</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">4:15 - 5:30pm</td>
+<td style="text-align: left;">Panel on Large Language Models</td>
+<td style="text-align: left;">Laura Nelson, Joao Sedoc, Lisa P. Argyle</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">5:30 - 5:45pm</td>
+<td style="text-align: left;">Closing</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
 
 ## Speakers
 
