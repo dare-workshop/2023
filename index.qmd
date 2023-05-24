@@ -106,7 +106,7 @@ The tentative schedule can be found below. (Cyprus local time, OESZ)
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">9:00 - 10:00am</td>
-<td style="text-align: left;">TBA</td>
+<td style="text-align: left;">Introductions; Group activities</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
@@ -126,17 +126,17 @@ The tentative schedule can be found below. (Cyprus local time, OESZ)
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2:30 - 3:45pm</td>
-<td style="text-align: left;">Panel on Data Sharing</td>
+<td style="text-align: left;">Panel on Data Sharing with Discussion</td>
 <td style="text-align: left;">David Lazer and Rebekah Tromble</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">4:15 - 5:30pm</td>
-<td style="text-align: left;">Panel on Large Language Models</td>
+<td style="text-align: left;">4:00 - 5:15pm</td>
+<td style="text-align: left;">Panel on Large Language Models with Discussion</td>
 <td style="text-align: left;">Laura Nelson, Joao Sedoc, Lisa P. Argyle</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">5:30 - 5:45pm</td>
-<td style="text-align: left;">Closing</td>
+<td style="text-align: left;">5:30 - 6:00pm</td>
+<td style="text-align: left;">Closing Discussion</td>
 <td style="text-align: left;"></td>
 </tr>
 </tbody>
