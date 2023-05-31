@@ -112,7 +112,12 @@ The tentative schedule can be found below. (Cyprus local time, OESZ)
 <tr class="even">
 <td style="text-align: left;">10:15 - 11:30am</td>
 <td style="text-align: left;">Paper Session (5 x 10 minutes) + Discussions</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">
+1. Ingmar Weber - <em>Remote Sensing and the Lack of Local Context</em><br><br>
+2. Ian Van Buskirk, Brian Zaharatos, Aaron Clauset and Daniel Larremore. <em>If the data do not speak for themselves, how ought we to speak for the data?</em><br><br>
+3. Diliara Valeeva. <em>Why Don’t We Ever Talk About Education When We Talk About Computational Social Science?</em><br><br>
+4. Olga Zagovora and Ralf Lämmel. <em>Hey, ChatGPT, how does CSS research need to change? Research questions in CSS in the wake of the perceived LLM singularity</em><br><br>
+5. Surendrabikram Thapa, Usman Naseem and Mehwish Nasim. <em>From Humans to Machines: Can ChatGPT-like LLMs Effectively Replace Human Annotators in NLP Tasks?</em> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">12 - 1pm</td>
@@ -127,7 +132,7 @@ The tentative schedule can be found below. (Cyprus local time, OESZ)
 <tr class="odd">
 <td style="text-align: left;">2:30 - 3:45pm</td>
 <td style="text-align: left;">Panel on Data Sharing with Discussion</td>
-<td style="text-align: left;">David Lazer and Rebekah Tromble</td>
+<td style="text-align: left;">David Lazer and Kiran Garimella</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">4:00 - 5:15pm</td>
