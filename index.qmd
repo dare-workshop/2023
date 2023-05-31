@@ -164,6 +164,24 @@ David Lazer is a University Distinguished Professor of Political Science and Com
 ### Topic
 Dr. Lazer is currently the PI in a five-year, $15.7 million research grant funded by the NSF, that aims to establish a [National Internet Observatory](https://nationalinternetobservatory.org/), to observe online human behavior across many digital platforms. The observatory will provide access to privacy-preserving human data to third-party researchers in order to study questions of broad interest. Dr. Lazer will discuss this project in the panel on Data sharing and Industry-Academic Collaborations.
 :::
+:::
+
+::: {.column width="33%" .center}
+![](https://comminfo.rutgers.edu/sites/default/files/2021-06/kiran%20new%20faculty%20fall%202021.png){width="100%" height="auto"}
+
+[Kiran Garimella](https://comminfo.rutgers.edu/garimella-kiran)
+:::
+
+::: {.column width="66%" .left}
+
+::: {.panel-tabset}
+### Bio
+
+Dr. Garimella’s research deals with using large-scale data to tackle societal issues such as misinformation, political polarization, or hate speech. Prior to joining Rutgers, Garimella was the Michael Hammer postdoc at the Institute for Data, Systems and Society at MIT. Before joining MIT, he was a postdoc at EPFL, Switzerland. His research focuses on using digital data for social good, including areas like polarization, misinformation and human migration.
+
+### Topic
+:::
+Dr. Garimella will be talking on the panel on data sharing.
 
 :::
 ::: {.column width="33%" .center}
@@ -199,7 +217,7 @@ João Sedoc is an Assistant Professor of Information Systems in the Department o
 Dr. Sedoc has extensive experience in building empathetic chatbots. He will be sharing his perspective on the future of generative AI technologies in the panel on Large Language Models. 
 :::
 
-:::
+<!-- :::
 ::: {.column width="33%" .center}
 ![](https://smpa.gwu.edu/sites/g/files/zaxdzs4161/files/image/Rebekah%20Tromble.jpg){width="100%" height="auto"}
 
@@ -214,7 +232,7 @@ Dr. Rebekah Tromble is Associate Professor in the School of Media and Public Aff
 
 ### Topic
 Dr. Tromble will be talking on the panel on Data sharing and Industry-Academic Collaborations on the basis of her experience leading a large research project, funded by Twitter. This project brings together a team of international researchers from both the social and computer sciences to investigate the ``health'' of political conversations on Twitter. The project is developing metrics for assessing the extent of phenomena such as echo chambers, incivility, and intolerance across political topics, different geographical regions, and languages. 
-:::
+::: -->
 :::
 
 
