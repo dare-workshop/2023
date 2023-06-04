@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: "paper/"
 
 website:
   title: "DARE 2023"
