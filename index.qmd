@@ -115,9 +115,9 @@ The tentative schedule can be found below. (Cyprus local time, OESZ)
 <td style="text-align: left;">
 1. Ingmar Weber - <em>Remote Sensing and the Lack of Local Context</em><br><br>
 2. Ian Van Buskirk, Brian Zaharatos, Aaron Clauset and Daniel Larremore. <em>If the data do not speak for themselves, how ought we to speak for the data?</em> [Paper](paper/DARE23_paper_Buskirk_etal.pdf)<br><br>
-3. Diliara Valeeva. <em>Why Don’t We Ever Talk About Education When We Talk About Computational Social Science?</em>[Paper](paper/DARE23_paper_Valeeva.pdf)<br><br>
-4. Olga Zagovora and Ralf Lämmel. <em>Hey, ChatGPT, how does CSS research need to change? Research questions in CSS in the wake of the perceived LLM singularity</em>[Paper](paper/DARE23_paper_Zagovora.pdf)<br><br>
-5. Surendrabikram Thapa, Usman Naseem and Mehwish Nasim. <em>From Humans to Machines: Can ChatGPT-like LLMs Effectively Replace Human Annotators in NLP Tasks?</em>[Paper](paper/DARE23_paper_Thapa_etal.pdf) </td>
+3. Diliara Valeeva. <em>Why Don’t We Ever Talk About Education When We Talk About Computational Social Science?</em> [Paper](paper/DARE23_paper_Valeeva.pdf)<br><br>
+4. Olga Zagovora and Ralf Lämmel. <em>Hey, ChatGPT, how does CSS research need to change? Research questions in CSS in the wake of the perceived LLM singularity</em> [Paper](paper/DARE23_paper_Zagovora.pdf)<br><br>
+5. Surendrabikram Thapa, Usman Naseem and Mehwish Nasim. <em>From Humans to Machines: Can ChatGPT-like LLMs Effectively Replace Human Annotators in NLP Tasks?</em> [Paper](paper/DARE23_paper_Thapa_etal.pdf) </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">12 - 1pm</td>
