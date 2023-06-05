@@ -116,16 +116,16 @@ The tentative schedule can be found below. (Cyprus local time, OESZ)
 </tr>
 <tr class="odd">
 <td style="text-align: left;">10:15 - 11:30am</td>
-<td style="text-align: left;">Paper Session (5 x 10 minutes) + Discussions
-1. <em>Remote Sensing and the Lack of Local Context</em> by <strong>Ingmar Weber</strong>.<br><br> 
+<td style="text-align: left;">Paper Session (5 x 10 minutes) + Discussions <br><br>
+1. <em>Remote Sensing and the Lack of Local Context</em> by <strong>Ingmar Weber</strong>.<br><br>
 2. <em>If the data do not speak for themselves, how ought we to speak for the data?</em>. By 
-<strong>Ian Van Buskirk<strong>, Brian Zaharatos, Aaron Clauset and Daniel Larremore. [Paper](paper/DARE23_paper_Buskirk_etal.pdf)<br><br>
-3. <em>Why Don’t We Ever Talk About Education When We Talk About Computational Social Science?</em> by <strong>Diliara Valeeva</strong>. [Paper](paper/DARE23_paper_Valeeva.pdf)<br><br>
-4. <em>Hey, ChatGPT, how does CSS research need to change? Research questions in CSS in the wake of the perceived LLM singularity</em>. By <strong>Olga Zagovora</strong> and Ralf Lämmel. [Paper](paper/DARE23_paper_Zagovora.pdf)<br><br>
-5. <em>From Humans to Machines: Can ChatGPT-like LLMs Effectively Replace Human Annotators in NLP Tasks?</em>. By <strong>Surendrabikram Thapa</strong>, Usman Naseem and Mehwish Nasim. [Paper](paper/DARE23_paper_Thapa_etal.pdf)
+<strong>Ian Van Buskirk</strong>, Brian Zaharatos, Aaron Clauset and Daniel Larremore. [(Paper)](paper/DARE23_paper_Buskirk_etal.pdf)<br><br>
+3. <em>Why Don’t We Ever Talk About Education When We Talk About Computational Social Science?</em> by <strong>Diliara Valeeva</strong>. [(Paper)](paper/DARE23_paper_Valeeva.pdf)<br><br>
+4. <em>Hey, ChatGPT, how does CSS research need to change? Research questions in CSS in the wake of the perceived LLM singularity</em>. By <strong>Olga Zagovora</strong> and Ralf Lämmel. [(Paper)](paper/DARE23_paper_Zagovora.pdf)<br><br>
+5. <em>From Humans to Machines: Can ChatGPT-like LLMs Effectively Replace Human Annotators in NLP Tasks?</em>. By <strong>Surendrabikram Thapa</strong>, Usman Naseem and Mehwish Nasim. [(Paper)](paper/DARE23_paper_Thapa_etal.pdf)
 </td>
 <td style="text-align: left;">
-Speaker name is shown in bold text for each paper.
+Speaker name indicated in bold text.
  </td>
 </tr>
 <tr class="even">
