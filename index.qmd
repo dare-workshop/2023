@@ -110,18 +110,32 @@ The tentative schedule can be found below. (Cyprus local time, OESZ)
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">10:15 - 11:30am</td>
-<td style="text-align: left;">Paper Session (5 x 10 minutes) + Discussions</td>
-<td style="text-align: left;">
-1. Ingmar Weber - <em>Remote Sensing and the Lack of Local Context</em><br><br>
-2. Ian Van Buskirk, Brian Zaharatos, Aaron Clauset and Daniel Larremore. <em>If the data do not speak for themselves, how ought we to speak for the data?</em> [Paper](paper/DARE23_paper_Buskirk_etal.pdf)<br><br>
-3. Diliara Valeeva. <em>Why Don’t We Ever Talk About Education When We Talk About Computational Social Science?</em> [Paper](paper/DARE23_paper_Valeeva.pdf)<br><br>
-4. Olga Zagovora and Ralf Lämmel. <em>Hey, ChatGPT, how does CSS research need to change? Research questions in CSS in the wake of the perceived LLM singularity</em> [Paper](paper/DARE23_paper_Zagovora.pdf)<br><br>
-5. Surendrabikram Thapa, Usman Naseem and Mehwish Nasim. <em>From Humans to Machines: Can ChatGPT-like LLMs Effectively Replace Human Annotators in NLP Tasks?</em> [Paper](paper/DARE23_paper_Thapa_etal.pdf) </td>
+<td style="text-align: left;">10:00 - 10:15am</td>
+<td style="text-align: left;">Short Break</td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">12 - 1pm</td>
-<td style="text-align: left;">Presentation + Discussion</td>
+<td style="text-align: left;">10:15 - 11:30am</td>
+<td style="text-align: left;">Paper Session (5 x 10 minutes) + Discussions
+1. <em>Remote Sensing and the Lack of Local Context</em> by <strong>Ingmar Weber</strong>.<br><br> 
+2. <em>If the data do not speak for themselves, how ought we to speak for the data?</em>. By 
+<strong>Ian Van Buskirk<strong>, Brian Zaharatos, Aaron Clauset and Daniel Larremore. [Paper](paper/DARE23_paper_Buskirk_etal.pdf)<br><br>
+3. <em>Why Don’t We Ever Talk About Education When We Talk About Computational Social Science?</em> by <strong>Diliara Valeeva</strong>. [Paper](paper/DARE23_paper_Valeeva.pdf)<br><br>
+4. <em>Hey, ChatGPT, how does CSS research need to change? Research questions in CSS in the wake of the perceived LLM singularity</em>. By <strong>Olga Zagovora</strong> and Ralf Lämmel. [Paper](paper/DARE23_paper_Zagovora.pdf)<br><br>
+5. <em>From Humans to Machines: Can ChatGPT-like LLMs Effectively Replace Human Annotators in NLP Tasks?</em>. By <strong>Surendrabikram Thapa</strong>, Usman Naseem and Mehwish Nasim. [Paper](paper/DARE23_paper_Thapa_etal.pdf)
+</td>
+<td style="text-align: left;">
+Speaker name is shown in bold text for each paper.
+ </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">11:30 - 12:00pm</td>
+<td style="text-align: left;">Coffee Break</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">12:00 - 1:00pm</td>
+<td style="text-align: left;">Presentation + Discussion: IPIE</td>
 <td style="text-align: left;">Saiph Savage</td>
 </tr>
 <tr class="even">
@@ -135,12 +149,17 @@ The tentative schedule can be found below. (Cyprus local time, OESZ)
 <td style="text-align: left;">David Lazer and Kiran Garimella</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;">3:45 - 4:00 pm</td>
+<td style="text-align: left;">Short Break</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;">4:00 - 5:15pm</td>
 <td style="text-align: left;">Panel on Large Language Models with Discussion</td>
 <td style="text-align: left;">Laura Nelson, Joao Sedoc, Lisa P. Argyle</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">5:30 - 6:00pm</td>
+<tr class="even">
+<td style="text-align: left;">5:20 - 5:45 pm</td>
 <td style="text-align: left;">Closing Discussion</td>
 <td style="text-align: left;"></td>
 </tr>
